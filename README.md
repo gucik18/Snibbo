@@ -1,6 +1,6 @@
-# 🚀 Snibbo - Online Code Compiler
+# 👨‍💻 Snibbo
 
-Snibbo is a sleek and fast online code compiler supporting multiple languages for code execution. Whether you're learning to code, testing snippets — Snibbo makes compiling easier, faster, and more accessible.
+Snibbo is a sleek and fast online code compiler supporting multiple languages for code execution. Whether you're learning to code, testing snippets — Snibbo makes compiling easier, faster, and more accessible. 🚀
 
 ---
 
@@ -9,10 +9,11 @@ Snibbo is a sleek and fast online code compiler supporting multiple languages fo
 | Feature                     | Description                                      |
 |----------------------------|--------------------------------------------------|
 | 🧠 Multi language support   | Run code in various languages via Piston API     |
-| ⚡ Instant code execution   | Fast, server-side code compilation & execution   |
-| 💡 Responsive UI            | Mobile-friendly and fully responsive layout      |
+| ⚡ Instant code execution   | Fast, server side code compilation & execution   |
+| 💡 Responsive UI            | Mobile friendly and fully responsive layout      |
 | 🖥️ Modern frontend          | Built with React.js for a dynamic user experience|
-| 📤 Real-time output display | See execution results instantly in the browser   |
+| 📤 Real time output display | See execution results instantly in the browser   |
+| ⬇️ Download button          | Download your code easily with a single click    |
 
 ---
 
@@ -30,8 +31,8 @@ Snibbo is a sleek and fast online code compiler supporting multiple languages fo
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/snibbo.git
-cd snibbo
+git clone https://github.com/KrishBharadwaj5678/Snibbo.git
+cd Snibbo
 ````
 
 ### 2. Install dependencies
@@ -43,12 +44,11 @@ npm install
 ### 3. Start the development server
 
 ```bash
-npm start
+npm run dev
 ```
 
 ---
 
 ## 🙌 Contributing
 
-Contributions are welcome! Feel free to fork this repo and submit a pull request.
-
+Contributions are welcome! 
