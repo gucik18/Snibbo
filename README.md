@@ -51,4 +51,48 @@ npm run dev
 
 ## 🙌 Contributing
 
-Contributions are welcome! 
+Contributions are welcome!
+
+1. 🍴 **Fork the repository**  
+
+2. 📥 **Clone your fork**  
+   ```bash
+   git clone https://github.com/KrishBharadwaj5678/Snibbo.git
+   cd Snibbo
+   ````
+
+3. 🌿 **Create a new branch**
+
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+
+4. 📦 **Install dependencies**
+
+   ```bash
+   npm install
+   ```
+
+5. ✍️ **Make your changes**
+
+6. 🔍 **Test your changes**
+
+   ```bash
+   npm run dev
+   ```
+
+7. 💾 **Commit your changes**
+
+   ```bash
+   git add .
+   git commit -m "Add feature: description of feature"
+   ```
+
+8. 🚀 **Push your branch**
+
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+
+9. 🔀 **Open a Pull Request**
+    - Go to the original repository and submit a pull request explaining your changes.
